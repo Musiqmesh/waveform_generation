@@ -1,5 +1,5 @@
 # waveform_generation
-
+##### Only works with Lightsong .wav files
 TO RUN THE SCRIPT, YOU MUST INSTALL
 
 pip install p5
